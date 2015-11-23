@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Tap Me
-//
+//  主界面
 //  Created by Strai on 15/11/20.
 //  Copyright © 2015年 泛华金融. All rights reserved.
 //
